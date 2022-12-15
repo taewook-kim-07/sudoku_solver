@@ -10,3 +10,4 @@
 * Hidden pair 
 * Naked Pair 
 * Locked Candidates 
+* Backtracking
