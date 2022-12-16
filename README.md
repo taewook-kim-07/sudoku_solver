@@ -1,4 +1,4 @@
-# sukodu_solver
+# sudoku_solver
 
 팀원: 김태욱, 윤주흔  
 스택: C언어  
