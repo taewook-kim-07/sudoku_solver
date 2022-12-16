@@ -1,10 +1,12 @@
 # sukodu_solver
 
-팀원: 김태욱, 윤주흔
-기한: 2019.04 ~ 2019.06
-프로젝트: C언어를 사용하여 스도쿠 풀이
+팀원: 김태욱, 윤주흔  
+스택: C언어  
+기한: 2019.04 ~ 2019.06  
+보고서: https://github.com/taewook-kim-07/sudoku_solver/blob/main/sudoku_project_1231.pptx  
 
-아래 스도쿠 풀이 알고리즘을 구현하였습니다.
+프로젝트 설명: 프로그램 동작 시간을 최소화하면서 스도쿠 풀이를 할 수 있도록 아래와 같은 알고리즘들을 구현하고 적용했습니다.  
+
 * Hidden Single 
 * Naked Single 
 * Hidden pair 
